@@ -1,0 +1,177 @@
+[
+    {
+        "id": 1,
+        "chefPicture": "https://assets.entrepreneur.com/content/3x2/2000/20161219132635-sanjeev-kapoor-editedvvv.jpeg",
+        "chefName": "Sanjeev Kapoor",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": 50,
+        "likes": 1000,
+        "description": "Sanjeev Kapoor is the most famous and commended chef in India. He is also an entrepreneur and a television personality. Sanjeev works for a TV channel named 'FoodFood' after which he became the world's first chef who owns a 24×7 food and lifestyle channel. He also hosted the television show 'Khana Khazana,' which was Asia's longest-running show at the time. The event was broadcast in 120 countries and received over 500 million viewers in 2010. Indian food is his cooking style. Mr. Kapoor was born in Ambala, Haryana, India, on April 10, 1964. He began his career in the hospitality sector in 1984. Alyona Kapoor, his wife, is also a partner in his company, Turmeric Vision Pvt. Ltd. Sanjeev Kapoor joined the Centaur Hotel in Mumbai as the youngest Executive Chef in 1992.",
+        "recipes": [
+            {
+                "recipeName": "Pesto Pasta",
+                "ingredients": ["1 pound pasta", "2 cups fresh basil", "1/2 cup grated Parmesan cheese", "1/2 cup extra-virgin olive oil", "3 cloves garlic"],
+                "cookingMethod": "1. Cook pasta according to package instructions. Reserve 1 cup of pasta cooking water. \n2. Meanwhile, combine basil, Parmesan cheese, olive oil, and garlic in a food processor or blender. \n3. Process until smooth. \n4. Toss the pesto with the hot pasta, adding reserved cooking water as needed to thin the sauce. \n5. Serve hot, garnished with additional Parmesan cheese and fresh basil leaves.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Grilled Steak",
+                "ingredients": ["1 pound steak", "1/4 cup olive oil", "2 tablespoons soy sauce", "2 cloves garlic", "1 teaspoon black pepper"],
+                "cookingMethod": "1. Preheat grill to high heat. \n2. Combine olive oil, soy sauce, garlic, and black pepper in a small bowl. \n3. Rub mixture all over the steak. \n4. Grill steak for 5-7 minutes per side, or until desired doneness. \n5. Let the steak rest for 5 minutes before slicing and serving.",
+                "rating": 4.6
+            },
+            {
+                "recipeName": "Roasted Vegetables",
+                "ingredients": ["2 bell peppers, sliced", "1 eggplant, diced", "1 zucchini, sliced", "1 onion, sliced", "2 tablespoons olive oil"],
+                "cookingMethod": "1. Preheat oven to 400 degrees F. \n2. Toss vegetables with olive oil and spread out in a single layer on a baking sheet. \n3. Roast for 20-25 minutes, or until vegetables are tender and lightly browned. \n4. Serve hot or at room temperature.",
+                "rating": 4.4
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chefPicture": "https://www.greavesindia.co.uk/wp-content/uploads/2016/07/chef-vikas-khanna.jpeg",
+        "chefName": "Vikas Khanna",
+        "yearsOfExperience": 5,
+        "numberOfRecipes": 20,
+        "likes": 500,
+        "description": "Vikas Khanna was born on 14 November 1971 in Amritsar, Punjab, India. He is an Indian chef, restaurateur, cookbook writer, filmmaker, and humanitarian. He judged the Star Plus series MasterChef India series that was telecasted on Star Plus. He got inspiration for cooking from his grandmother. He was only 17 when he opened Lawrence Gardens Banquets to host weddings and functions. Vikas Khanna completed his graduation from Manipal Academy of Higher Education and doctorate from GD Goenka University. In New York, he started his restaurant named 'Junoon''and in 2020, he opened a restaurant Ellora in Dubai.",
+        "recipes": [
+            {
+                "recipeName": "Pesto Pasta",
+                "ingredients": ["1 pound pasta", "2 cups fresh basil", "1/2 cup grated Parmesan cheese", "1/2 cup extra-virgin olive oil", "3 cloves garlic"],
+                "cookingMethod": "1. Cook pasta according to package instructions. Reserve 1 cup of pasta cooking water. \n2. Meanwhile, combine basil, Parmesan cheese, olive oil, and garlic in a food processor or blender. \n3. Process until smooth. \n4. Toss the pesto with the hot pasta, adding reserved cooking water as needed to thin the sauce. \n5. Serve hot, garnished with additional Parmesan cheese and fresh basil leaves.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Grilled Steak",
+                "ingredients": ["1 pound steak", "1/4 cup olive oil", "2 tablespoons soy sauce", "2 cloves garlic", "1 teaspoon black pepper"],
+                "cookingMethod": "1. Preheat grill to high heat. \n2. Combine olive oil, soy sauce, garlic, and black pepper in a small bowl. \n3. Rub mixture all over the steak. \n4. Grill steak for 5-7 minutes per side, or until desired doneness. \n5. Let the steak rest for 5 minutes before slicing and serving.",
+                "rating": 4.6
+            },
+            {
+                "recipeName": "Roasted Vegetables",
+                "ingredients": ["2 bell peppers, sliced", "1 eggplant, diced", "1 zucchini, sliced", "1 onion, sliced", "2 tablespoons olive oil"],
+                "cookingMethod": "1. Preheat oven to 400 degrees F. \n2. Toss vegetables with olive oil and spread out in a single layer on a baking sheet. \n3. Roast for 20-25 minutes, or until vegetables are tender and lightly browned. \n4. Serve hot or at room temperature.",
+                "rating": 4.4
+            }
+        ]
+    },
+
+    {
+        "id": 3,
+        "chefPicture": "https://yt3.ggpht.com/EjJFbCW67M4aWO1K00vxiDW41qpZl8_CUfNoDfDV26S_R__8MwrASiCH6yNZRDQykCJzgPVgVEfR=s640-nd-v1",
+        "chefName": "Ranveer Brar",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": 80,
+        "likes": 2000,
+        "description": "Ranveer Brar is an Indian chef, TV & digital celebrity, judge, host, author, restaurateur, food film producer, and benefactor. He was born on 8 February 1978 in Lucknow, Uttar Pradesh, India. At present, he is engaged as the senior official food expert at the Novotel Mumbai, Juhu Beach. Other than this, he is also a supervisor at the Dosa Factory and Shalimar in Cambridge. He began his career at the Taj Hotel, Mumbai after completing his education at IHM, Lucknow.Mr. Brar started his TV career with Breakfast Xpress. He has appeared in various shows as a judge or host such as Zee Khana Khazana, Zoom's Thank Got Its Friday, Masterchef India, Raja Rasoi Aur Andaaz Anokha, Rasoi ki Jung Mummiyon ke Sung, Health Bhi Taste Bhi, and others. In 2016, Ranveer Brar launched his first book titled 'Come Into My Kitchen' an autobiography. Other than this, in 2019, he launched his mobile app also.",
+        "recipes": [
+            {
+                "recipeName": "Pesto Pasta",
+                "ingredients": ["1 pound pasta", "2 cups fresh basil", "1/2 cup grated Parmesan cheese", "1/2 cup extra-virgin olive oil", "3 cloves garlic"],
+                "cookingMethod": "1. Cook pasta according to package instructions. Reserve 1 cup of pasta cooking water. \n2. Meanwhile, combine basil, Parmesan cheese, olive oil, and garlic in a food processor or blender. \n3. Process until smooth. \n4. Toss the pesto with the hot pasta, adding reserved cooking water as needed to thin the sauce. \n5. Serve hot, garnished with additional Parmesan cheese and fresh basil leaves.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Grilled Steak",
+                "ingredients": ["1 pound steak", "1/4 cup olive oil", "2 tablespoons soy sauce", "2 cloves garlic", "1 teaspoon black pepper"],
+                "cookingMethod": "1. Preheat grill to high heat. \n2. Combine olive oil, soy sauce, garlic, and black pepper in a small bowl. \n3. Rub mixture all over the steak. \n4. Grill steak for 5-7 minutes per side, or until desired doneness. \n5. Let the steak rest for 5 minutes before slicing and serving.",
+                "rating": 4.6
+            },
+            {
+                "recipeName": "Roasted Vegetables",
+                "ingredients": ["2 bell peppers, sliced", "1 eggplant, diced", "1 zucchini, sliced", "1 onion, sliced", "2 tablespoons olive oil"],
+                "cookingMethod": "1. Preheat oven to 400 degrees F. \n2. Toss vegetables with olive oil and spread out in a single layer on a baking sheet. \n3. Roast for 20-25 minutes, or until vegetables are tender and lightly browned. \n4. Serve hot or at room temperature.",
+                "rating": 4.4
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "chefPicture": "https://dwz6kul9y5yls.cloudfront.net/wp-content/uploads/2021/11/anjum-anand5.jpg",
+        "chefName": "Anjum Anand",
+        "yearsOfExperience": 7,
+        "numberOfRecipes": 30,
+        "likes": 800,
+        "description": "Anjum Anand is an Indian British TV chef and food writer. She was born on 15 August 1971 in London, England. She completed her education at the Business Administration School of Geneva. Her cooking style is Indian cuisine. Other than England, she owns two-family homes; one in Delhi and the other in Calcutta. Anjum is focused more on healthy food. This perspective was developed in her when she faced weight problems while growing up. She wrote her first cookbook at the age of 25. From 2004 to 2007, she was a regular guest of UKTV Food's Great Food Live. Other than this, she has appeared on shows such as Anjum's Spice Stories, Market Kitchen, and Indian Food Made Easy. She also owns an Indian sauces brand named The Spice Tailor which was started in 2011.",
+        "recipes": [
+            {
+                "recipeName": "Pesto Pasta",
+                "ingredients": ["1 pound pasta", "2 cups fresh basil", "1/2 cup grated Parmesan cheese", "1/2 cup extra-virgin olive oil", "3 cloves garlic"],
+                "cookingMethod": "1. Cook pasta according to package instructions. Reserve 1 cup of pasta cooking water. \n2. Meanwhile, combine basil, Parmesan cheese, olive oil, and garlic in a food processor or blender. \n3. Process until smooth. \n4. Toss the pesto with the hot pasta, adding reserved cooking water as needed to thin the sauce. \n5. Serve hot, garnished with additional Parmesan cheese and fresh basil leaves.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Grilled Steak",
+                "ingredients": ["1 pound steak", "1/4 cup olive oil", "2 tablespoons soy sauce", "2 cloves garlic", "1 teaspoon black pepper"],
+                "cookingMethod": "1. Preheat grill to high heat. \n2. Combine olive oil, soy sauce, garlic, and black pepper in a small bowl. \n3. Rub mixture all over the steak. \n4. Grill steak for 5-7 minutes per side, or until desired doneness. \n5. Let the steak rest for 5 minutes before slicing and serving.",
+                "rating": 4.6
+            },
+            {
+                "recipeName": "Roasted Vegetables",
+                "ingredients": ["2 bell peppers, sliced", "1 eggplant, diced", "1 zucchini, sliced", "1 onion, sliced", "2 tablespoons olive oil"],
+                "cookingMethod": "1. Preheat oven to 400 degrees F. \n2. Toss vegetables with olive oil and spread out in a single layer on a baking sheet. \n3. Roast for 20-25 minutes, or until vegetables are tender and lightly browned. \n4. Serve hot or at room temperature.",
+                "rating": 4.4
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "chefPicture": "https://bazaar.town/wp-content/uploads/2015/06/featured30-1.jpg",
+        "chefName": "Hari Nayak",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": 100,
+        "likes": 5000,
+        "description": "Hari Nayak is a New York-based Indian chef, author, restaurateur, and culinary consultant. He was born on 8 February 1974 in Udupi, Karnataka, India. He completed his education at Welcome group Graduate School of Hotel Administration, Karnataka, and then started his journey from the Culinary Institute of America.He is the author of 7 bestselling books including Modern Indian Cooking. His latest launched book is Spice Trail. Several restaurants run by him are Sona, Jhol, Charcoza, Alchemy, Masti, CafeSpice, and Bombay Bungalow at various locations in the world. From them, Sona in New York was collectively opened by Hari, his friend Maneesh, and Bollywood and Hollywood actress Priyanka Chopra. He is the co-founder of 'Cooking for Life'",
+        "recipes": [
+            {
+                "recipeName": "Pesto Pasta",
+                "ingredients": ["1 pound pasta", "2 cups fresh basil", "1/2 cup grated Parmesan cheese", "1/2 cup extra-virgin olive oil", "3 cloves garlic"],
+                "cookingMethod": "1. Cook pasta according to package instructions. Reserve 1 cup of pasta cooking water. \n2. Meanwhile, combine basil, Parmesan cheese, olive oil, and garlic in a food processor or blender. \n3. Process until smooth. \n4. Toss the pesto with the hot pasta, adding reserved cooking water as needed to thin the sauce. \n5. Serve hot, garnished with additional Parmesan cheese and fresh basil leaves.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Grilled Steak",
+                "ingredients": ["1 pound steak", "1/4 cup olive oil", "2 tablespoons soy sauce", "2 cloves garlic", "1 teaspoon black pepper"],
+                "cookingMethod": "1. Preheat grill to high heat. \n2. Combine olive oil, soy sauce, garlic, and black pepper in a small bowl. \n3. Rub mixture all over the steak. \n4. Grill steak for 5-7 minutes per side, or until desired doneness. \n5. Let the steak rest for 5 minutes before slicing and serving.",
+                "rating": 4.6
+            },
+            {
+                "recipeName": "Roasted Vegetables",
+                "ingredients": ["2 bell peppers, sliced", "1 eggplant, diced", "1 zucchini, sliced", "1 onion, sliced", "2 tablespoons olive oil"],
+                "cookingMethod": "1. Preheat oven to 400 degrees F. \n2. Toss vegetables with olive oil and spread out in a single layer on a baking sheet. \n3. Roast for 20-25 minutes, or until vegetables are tender and lightly browned. \n4. Serve hot or at room temperature.",
+                "rating": 4.4
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "chefPicture": "https://indianwomenblog.org/wp-content/uploads/2017/10/cover-543.jpg",
+        "chefName": "Nita Mehta",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": 60,
+        "likes": 1500,
+        "description": "Nita Mehta is an Indian chef, author, restaurateur, and media personality. She is highly popular for her cookbooks, cooking classes, and celebrity judge on various cooking shows. Her cooking style is Indian. In 2001, she started her culinary academy named 'Nita Mehta Culinary Academy' in New Delhi. In 2012, she started her restaurant Kelong at Sarabha Nagar, Ludhiana, Punjab. She is the author of about 400 cookbooks whose more than 6 million copies have been sold. She appeared on the MasterChef India as a judge in 2011.",
+        "recipes": [
+            {
+                "recipeName": "Pesto Pasta",
+                "ingredients": ["1 pound pasta", "2 cups fresh basil", "1/2 cup grated Parmesan cheese", "1/2 cup extra-virgin olive oil", "3 cloves garlic"],
+                "cookingMethod": "1. Cook pasta according to package instructions. Reserve 1 cup of pasta cooking water. \n2. Meanwhile, combine basil, Parmesan cheese, olive oil, and garlic in a food processor or blender. \n3. Process until smooth. \n4. Toss the pesto with the hot pasta, adding reserved cooking water as needed to thin the sauce. \n5. Serve hot, garnished with additional Parmesan cheese and fresh basil leaves.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Grilled Steak",
+                "ingredients": ["1 pound steak", "1/4 cup olive oil", "2 tablespoons soy sauce", "2 cloves garlic", "1 teaspoon black pepper"],
+                "cookingMethod": "1. Preheat grill to high heat. \n2. Combine olive oil, soy sauce, garlic, and black pepper in a small bowl. \n3. Rub mixture all over the steak. \n4. Grill steak for 5-7 minutes per side, or until desired doneness. \n5. Let the steak rest for 5 minutes before slicing and serving.",
+                "rating": 4.6
+            },
+            {
+                "recipeName": "Roasted Vegetables",
+                "ingredients": ["2 bell peppers, sliced", "1 eggplant, diced", "1 zucchini, sliced", "1 onion, sliced", "2 tablespoons olive oil"],
+                "cookingMethod": "1. Preheat oven to 400 degrees F. \n2. Toss vegetables with olive oil and spread out in a single layer on a baking sheet. \n3. Roast for 20-25 minutes, or until vegetables are tender and lightly browned. \n4. Serve hot or at room temperature.",
+                "rating": 4.4
+            }
+        ]
+    }
+]
