@@ -1,6 +1,7 @@
 const express = require('express');
 const cors = require('cors');
 const headerData = require('./data/headerData.json');
+const chefsData = require('./data/chefData.json');
 // initialize app
 const app = express();
 
@@ -19,6 +20,14 @@ app.get('/slider-data', (req, res) => {
         success: true,
         results: headerData.data.length,
         headerData,
+    });
+});
+
+app.get('/chefs-data', (req, res) => {
+    res.status(200).json({
+        success: true,
+        results: chefsData.chefs.length,
+        chefsData,
     });
 });
 
