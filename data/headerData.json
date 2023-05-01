@@ -1,0 +1,46 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "img": "https://researchleap.com/wp-content/uploads/2021/11/Indonesia-Wants-to-be-the-Leader-of-the-Worlds-Halal-Industry.jpeg",
+            "title": "Halal Dinner",
+            "description": "For example, if you have a business dinner with guests from an Islamic country, Foodie Adventurer restaurant is the perfect place for your business halal dinner. Your Islamic guests will be able to choose from an unprecedented range of the most delicious Tandoori and Curries dishes prepared with care by our chefs."
+        },
+        {
+            "id": 2,
+            "img": "https://www.themediterraneandish.com/wp-content/uploads/2022/02/Vegan-Roundup-2022-2x3-.jpg",
+            "title": "Vegetarian or vegan dinner",
+            "description": "Vegetarians, vegans and omnivores can all enjoy a tasty dinner at Foodie Adventurer Restaurant. If there are several vegetarians in your party, we serve a vegetarian shared dining menu, and if only one or two people eat vegetarian, we have the option to serve a vegetarian thali."
+        },
+        {
+            "id": 3,
+            "img": "https://momsdinner.net/wp-content/uploads/2022/07/Meals-for-Large-Group-on-Vacation-1.jpg",
+            "title": "Groups Meals",
+            "description": "Foodie Adventurer Restaurant is the perfect place to enjoy a meal together with your family, friends and colleagues. Our large 'booths' can seat up to ten people, but maintain a cosy and intimate atmosphere. Because relaxing together while enjoying delicious food, that is what life is all about!"
+        },
+        {
+            "id": 4,
+            "img": "https://mariposafarms.com/wp-content/uploads/2017/02/romantic-dinner-recipes-1.jpg",
+            "title": "Romantic dinner",
+            "description": "Our mood lighting adds to the romantic setting and intimate character of our restaurant. We have an interior that is reminiscent of the idyllic small villages in the heart of India, as if you were in a fairytale Bollywood film."
+        },
+        {
+            "id": 5,
+            "img": "https://assets.entrepreneur.com/content/3x2/2000/20160610123926-BusinessDinner.jpeg",
+            "title": "Business  dinner",
+            "description": "Are you looking for the perfect restaurant for a business dinner with one or more colleagues? Foodie Adventurer Restaurant offers you the perfect setting for all your business group dinners, where you and your colleagues can enjoy the delicious North Indian dishes prepared by the chefs of Foodie Adventurer Restaurant in peace and privacy."
+        },
+        {
+            "id": 6,
+            "img": "https://cdn.luxe.digital/media/2020/06/07192740/best-cocktails-recipes-luxe-digital.jpg",
+            "title": "Bar and cocktails",
+            "description": "The Foodie Adventurer bar staff will be happy to prepare our signature cocktails and gin & tonics for you. If you prefer wine, we have an extensive wine list to compliment your dinner.."
+        },
+        {
+            "id": 7,
+            "img": "https://www.ageukmobility.co.uk/media/cache/default_530/upload/e6/72/e672e24eff62a4233db947ffee61694abe29192b.jpeg",
+            "title": "Old People Meals",
+            "description": "The Foodie Adventurer Old people Corner staff will be happy to prepare our signature old perople love and gin & tonics for you. If you prefer wine, we have an extensive wine list to compliment your dinner.Free healthy recipes that are tried and tested. Ideal for older people. From warming and hearty stews to tasty treats, these recipes are delicious."
+        }
+    ]
+}
