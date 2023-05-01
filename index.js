@@ -2,6 +2,7 @@ const express = require('express');
 const cors = require('cors');
 const headerData = require('./data/headerData.json');
 const chefsData = require('./data/chefData.json');
+const revipesData = require('./data/reciepesData.json');
 // initialize app
 const app = express();
 
@@ -28,6 +29,15 @@ app.get('/chefs-data', (req, res) => {
         success: true,
         results: chefsData.chefs.length,
         chefsData,
+    });
+});
+
+app.get('/recipe-data/:id', (req, res) => {
+    const { id } = req.params;
+    const findData = revipesData.find((el) => el.id === Number(id));
+    res.status(200).json({
+        success: true,
+        findData,
     });
 });
 
