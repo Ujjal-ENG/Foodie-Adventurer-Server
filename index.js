@@ -3,6 +3,7 @@ const cors = require('cors');
 const headerData = require('./data/headerData.json');
 const chefsData = require('./data/chefData.json');
 const revipesData = require('./data/reciepesData.json');
+const blogsData = require('./data/blogsData.json');
 // initialize app
 const app = express();
 
@@ -38,6 +39,14 @@ app.get('/recipe-data/:id', (req, res) => {
     res.status(200).json({
         success: true,
         findData,
+    });
+});
+
+app.get('/blogs-data', (req, res) => {
+    res.status(200).json({
+        success: true,
+        results: blogsData.length,
+        blogsData,
     });
 });
 
