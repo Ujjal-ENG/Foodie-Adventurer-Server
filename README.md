@@ -31,7 +31,7 @@ The following are the available endpoints for this server:
 
 ## Live Server Site Link
 
-You can visit the Live Server Site at [https://foodie-adventurer-server.vercel.app/]
+You can visit the Live Server Site at [https://foodie-adventurer-server-ujjal-eng.vercel.app/]
 
 ## Author
 
